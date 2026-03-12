@@ -2,7 +2,6 @@ name: Hello World
 
 on:
   workflow_dispatch:
-    branches: [ main ]
 jobs:
   demo:
     runs-on: ubuntu-latest
